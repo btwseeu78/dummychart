@@ -1,9 +1,0 @@
-app:
-  imageName: linuxarpan/dummy_repo
-  tag: latest
-  name: demoapp
-  port: 80
-service:
-  name: demoservice
-  targetPort: 80
-  protocol: TCP
