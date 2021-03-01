@@ -3,7 +3,7 @@ app:
   tag: latest
   name: demoapp
   port: 80
-service:
+services:
   name: demoservice
   targetPort: 80
   protocol: TCP
