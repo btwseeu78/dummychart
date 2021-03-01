@@ -1,7 +1,7 @@
 app:
   imageName: linuxarpan/dummy_repo
   tag: latest
-  name: demoapp
+  name: newdemos
   port: 80
 services:
   name: demoservice
